@@ -1,0 +1,22 @@
+﻿Country/Zone,Economy Type,Conversion Name
+Europe,Developed Economy,USD/EUR
+United Kingdom,Developed Economy,USD/GBP
+Japan,Developed Economy,USD/JPY
+Switzerland,Developed Economy,USD/CHF
+Canada,Developed Economy,USD/CAD
+Australia,Developed Economy,USD/AUD
+Singapore,Developed Economy,USD/SGD
+South Korea,Developed Economy,USD/KRW
+China,Emerging Market Economy,USD/CNY
+India,Emerging Market Economy,USD/INR
+Brazil,Emerging Market Economy,USD/BRL
+South Africa,Emerging Market Economy,USD/ZAR
+Russia,Emerging Market Economy,USD/RUB
+Mexico,Emerging Market Economy,USD/MXN
+Indonesia,Emerging Market Economy,USD/IDR
+Turkey,Emerging Market Economy,USD/TRY
+Vietnam,Frontier Economy,USD/VND
+Sri Lanka,Frontier Economy,USD/LKR
+Nigeria,Frontier Economy,USD/NGN 
+Kenya ,Frontier Economy,USD/KES
+Bangladesh,Frontier Economy,USD/BDT
