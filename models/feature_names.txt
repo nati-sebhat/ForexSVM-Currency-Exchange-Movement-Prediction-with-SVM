@@ -1,0 +1,6 @@
+lag_1
+lag_2
+lag_3
+return_1d
+ma_5
+ma_10
